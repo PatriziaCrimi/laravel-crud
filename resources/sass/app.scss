@@ -1,0 +1,10 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+@import 'variables';
+@import 'common';
+@import 'partials/header';
+@import 'partials/footer';
+@import 'rooms/index';
+@import 'rooms/show';
+@import 'rooms/create';
+@import 'rooms/edit';
